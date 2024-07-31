@@ -2,6 +2,10 @@
 
 This is a web application that provides a login page for users to authenticate. It's a small project to showcase basic web development skills, including HTML, CSS, JavaScript, and connecting to a MongoDB database.
 
+## Demo
+
+![Screenshot 2024-07-19 175637](https://github.com/user-attachments/assets/d0662c4d-5cda-4839-ac24-7eb083c4f04d)
+
 ## Usage
 
 To use this application, follow these steps:
@@ -51,12 +55,6 @@ You can customize this application by:
 - Adding or modifying JavaScript functions in `app.js` to enhance the application functionality.
 - Modifying the CSS in `styles.css` to change the appearance of the application.
 - Updating the MongoDB connection settings in `db.js` to connect to your specific database.
-
-## Screenshot
-
-Here is a screenshot of the login page:
-
-![Screenshot 2024-07-19 175637](https://github.com/user-attachments/assets/d0662c4d-5cda-4839-ac24-7eb083c4f04d)
 
 ## License
 

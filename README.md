@@ -6,7 +6,7 @@ This is a web application that provides a login page for users to authenticate. 
 
 ![Screenshot 2024-07-19 175637](https://github.com/user-attachments/assets/d0662c4d-5cda-4839-ac24-7eb083c4f04d)
 
-## Usage
+## Installation
 
 To use this application, follow these steps:
 
